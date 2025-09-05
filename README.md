@@ -1,4 +1,5 @@
 Pharmacy Price Comparison Platform
+
 Overview
 This is a full-stack, modern pharmacy price comparison web application built with React (frontend) and Express.js (backend), delivering a seamless experience for users to search for medications and instantly compare prices and stock availability across local pharmacies.
 
