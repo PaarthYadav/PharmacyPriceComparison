@@ -1,5 +1,7 @@
 Pharmacy Price Comparison Platform
 
+Click to view: pharmacy-price-comparison.vercel.app
+
 Overview
 This is a full-stack, modern pharmacy price comparison web application built with React (frontend) and Express.js (backend), delivering a seamless experience for users to search for medications and instantly compare prices and stock availability across local pharmacies.
 
